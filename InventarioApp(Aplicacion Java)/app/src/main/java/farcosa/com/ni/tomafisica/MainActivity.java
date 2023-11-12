@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity {
         btnGuardar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ejecutarServicio("http://192.168.1.15:8081/api/Articulo/");
+                ejecutarServicio("http://192.95.21.165:8081/api/Articulo/");
                 dbutton();
                 //ejecutarServicio("http://192.168.1.7:9095/api/Inventa");
             }
@@ -190,7 +190,7 @@ public class MainActivity extends AppCompatActivity {
         btnBuscar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                buscarProducto("http://192.168.1.15:8081/api/Articulo/"+txtCodigo.getText()+"");
+                buscarProducto("http://192.95.21.165:8081/api/Articulo/"+txtCodigo.getText()+"");
                 //buscarProducto("http://192.168.0.9:9095/api/Inventa/"+txtCodigo.getText()+"");
             }
         });
