@@ -3498,11 +3498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
+      "projectUniqueName": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
       "projectName": "ApiInv",
-      "projectPath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
+      "projectPath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API(.Net Core5)\\ApiInv\\ApiInv\\obj\\",
+      "outputPath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API\\API(.Net Core5)\\ApiInv\\ApiInv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

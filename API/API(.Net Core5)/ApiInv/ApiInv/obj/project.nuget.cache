@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3PhBhD3O8LiSbBO8Z/3tC+8XjOXc3mfDzyS9VNO8IqyV0W2pX10LRfl3H1lFNcmosHnHNpwb09oVH15BhWoXSw==",
+  "dgSpecHash": "/d1/PwSM7BbYa37drSTJezoWBizEyBE2cSvptDtw885V+Ba/w4pXzpQPH7tvlAdjSH0VOP6gsYfMbxRJvd2IDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
+  "projectFilePath": "C:\\Users\\Andres\\Desktop\\GitHub\\API-Inv\\API\\API(.Net Core5)\\ApiInv\\ApiInv\\ApiInv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Andres\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
